@@ -7,3 +7,5 @@ See on minu esimene Git repositoorium
 Õppida Git põhitõdesid ja workflow'sid
 
 ## Github Integratsioon
+
+Muudatus GitHub'ist
