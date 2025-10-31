@@ -1,2 +1,2 @@
-#"/bin/bash
-echo "Tere, Git! Kuidas läheb?"
+#!/bin/bash
+echo "Hello, Git! Welcome!"
