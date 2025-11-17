@@ -1,2 +1,2 @@
 #!bin/bash
-echo "Tere / Hello, Git!"
+echo "Tervist / Hello, Git!"
